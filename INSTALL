@@ -1,0 +1,9 @@
+Building Cherishcoin
+
+See doc/readme-qt.rst for instructions on building Cherishcoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Cherishcoin.
+
+See doc/build-*.txt for instructions on building cherishcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Cherishcoin.
